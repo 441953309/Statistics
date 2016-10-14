@@ -165,5 +165,3 @@ rule.minute = 10;
 schedule.scheduleJob(rule, function () {
   sta();
 });
-
-sta();
